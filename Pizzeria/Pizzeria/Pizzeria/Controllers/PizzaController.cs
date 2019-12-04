@@ -12,7 +12,6 @@ namespace Pizzeria.Controllers
     [ApiController]
     public class PizzaController : ControllerBase
     {
-
         private s17190Context _context;
         public PizzaController(s17190Context context)
         {
@@ -36,38 +35,6 @@ namespace Pizzeria.Controllers
             }
 
             return Ok(pizza);
-        }
-
-        // GET: api/Pizza
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET: api/Pizza/5
-        [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST: api/Pizza
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
-
-        // PUT: api/Pizza/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
-
-        // DELETE: api/ApiWithActions/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
         }
     }
 }

@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s17190\\Desktop\\pizzeria\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {}
+    "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s17190\\Desktop\\pizzeria\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {
+    "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s17190\\Desktop\\pizzeria\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
+        "projectUniqueName": "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
         "projectName": "Pizzeria",
-        "projectPath": "C:\\Users\\s17190\\Desktop\\pizzeria\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
-        "packagesPath": "C:\\Users\\s17190\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s17190\\Desktop\\pizzeria\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\obj\\",
+        "projectPath": "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
+        "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
+        "outputPath": "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\s17190\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Michał\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -70,10 +68,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
