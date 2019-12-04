@@ -1,0 +1,14 @@
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\bin\Debug\netcoreapp2.2\Pizzeria.deps.json
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\bin\Debug\netcoreapp2.2\Pizzeria.runtimeconfig.json
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\bin\Debug\netcoreapp2.2\Pizzeria.runtimeconfig.dev.json
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\bin\Debug\netcoreapp2.2\Pizzeria.dll
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.csprojAssemblyReference.cache
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.RazorAssemblyInfo.cache
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.RazorAssemblyInfo.cs
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.AssemblyInfoInputs.cache
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.AssemblyInfo.cs
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.RazorTargetAssemblyInfo.cache
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\bin\Debug\netcoreapp2.2\Pizzeria.pdb
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.dll
+C:\Users\s17190\Desktop\pizzeria\s17190\Pizzeria\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.pdb
