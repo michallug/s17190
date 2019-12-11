@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {}
+    "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {}
   },
   "projects": {
-    "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {
+    "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
+        "projectUniqueName": "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
         "projectName": "Pizzeria",
-        "projectPath": "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
+        "projectPath": "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria.csproj",
         "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
-        "outputPath": "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\Pizzeria\\obj\\",
+        "outputPath": "D:\\Studia\\PRO\\repos\\s17190\\Pizzeria\\Pizzeria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
