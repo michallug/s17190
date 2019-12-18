@@ -44,3 +44,4 @@ D:\Studia\PRO\repos\s17190\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.As
 D:\Studia\PRO\repos\s17190\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.RazorTargetAssemblyInfo.cache
 D:\Studia\PRO\repos\s17190\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.dll
 D:\Studia\PRO\repos\s17190\Pizzeria\Pizzeria\obj\Debug\netcoreapp2.2\Pizzeria.pdb
+D:\Studia\PRO\repos\s17190\Pizzeria\Pizzeria\bin\Debug\netcoreapp2.2\Pizzeria.xml

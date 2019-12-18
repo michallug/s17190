@@ -19,7 +19,12 @@ namespace Pizzeria.Controllers
             _context = context;
         }
 
-
+        /// <summary>
+        /// Metoda zwraca dane 
+        /// </summary>
+        /// <returns>
+        ///     Lista obiektów...
+        /// </returns>
         [HttpGet]
         public IActionResult GetPizzas()
         {
